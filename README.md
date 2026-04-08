@@ -65,7 +65,7 @@ Foi utilizada linguagem R para análise de média de umidade, auxiliando na toma
 
 ## Vídeo
 
-Cole aqui o link do YouTube
+[https://www.youtube.com/watch?v=Z8tuvOLXVZE](https://www.youtube.com/watch?v=Z8tuvOLXVZE)
 
 ## Conclusão
 
